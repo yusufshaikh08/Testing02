@@ -1,0 +1,34 @@
+.heading{
+    color: olive;
+    font-size: 50px;
+    font-style: italic;
+font-weight: 900;
+text-decoration: underline;
+}
+.Hello{
+    color: aliceblue;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform:capitalize;
+}
+.link{
+    text-transform: none;
+    text-decoration: none;
+    font-size: larger;
+    color:red;
+}
+*{
+    background-image: url(./assets/pexels-pixabay-268533.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.para{
+    text-decoration: underline;
+    color:indigo;
+    font-size: larger;
+    text-transform: capitalize;
+
+
+}
+
