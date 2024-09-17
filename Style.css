@@ -1,5 +1,5 @@
 .heading{
-    color: olive;
+    color:fuchsia;s
     font-size: 50px;
     font-style: italic;
 font-weight: 900;
@@ -17,12 +17,13 @@ text-decoration: underline;
     font-size: larger;
     color:red;
 }
-*{
+/*{
     background-image: url(./assets/pexels-pixabay-268533.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
 }
+    */
 .para{
     text-decoration: underline;
     color:indigo;
@@ -30,5 +31,52 @@ text-decoration: underline;
     text-transform: capitalize;
 
 
+}
+.bg-img{
+    background-image: url(./assets/pexels-pixabay-268533.jpg);
+    background-size: cover;
+    color: antiquewhite;
+    line-height: 20px;
+}
+.font-apply{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.text-atag-in-para{
+    text-decoration: none;
+    color: red;
+}
+.text-decoration{
+    text-decoration: line-through;
+    font-size: larger;
+}
+.play-with-letters{
+    letter-spacing: 22px;
+    word-spacing: 50px;
+    line-height: 40px;
+    text-align:center;
+    /*text-align: right;
+    text-align: left;*/
+
+}
+.change-w{
+    font-size: 50px;
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.change-h{
+    font-size: 50px;
+    color: red;
+    text-transform: uppercase;
+    text-decoration: underline;
+
+}
+ul{
+    list-style-type:square;
+    list-style:none;
+    list-style-position:outside;
 }
 
