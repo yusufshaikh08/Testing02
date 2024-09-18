@@ -77,6 +77,40 @@ text-decoration: underline;
 ul{
     list-style-type:square;
     list-style:none;
-    list-style-position:outside;
+    list-style-position:inside;
 }
+div.b-color{
+background-color: blueviolet;
+}
+div.first{
+    opacity: 0.2;
+}
+div.second{
+    opacity: 0.4;
+}
+div.third{
+    opacity: 0.6;
+}
+.border-property{
+   /border-style: dashed;
+    border-width: 10px;
+    border-color: blue;
+    border-radius: 30px;
+    border: 10px solid blue;
 
+}
+.padding-margin{
+    border: 3px solid red;
+    margin: 50px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.banner-img{
+    width: 400px;
+    height: 200px;
+    float: right;
+
+}
